@@ -78,7 +78,7 @@ public class ChatActivity extends AppCompatActivity {
         // Make API call
         Call<List<ChatResponse>> call = apiService.getChatResponse(
                 "mistralai/Mixtral-8x7B-Instruct-v0.1",
-                "Bearer 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", // Replace with your API key
+                "Bearer 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", // Replace with your API key
                 request
         );
         call.enqueue(new Callback<List<ChatResponse>>() {
