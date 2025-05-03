@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341461777027",
+    "project_id": "zenioapp-8bb9a",
+    "storage_bucket": "zenioapp-8bb9a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341461777027:android:af3e02fa5e8c8d0d7ff9b6",
+        "android_client_info": {
+          "package_name": "com.example.zenioapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArN1jMiVGqiPKeTelmzMhLELytBK3fpAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
